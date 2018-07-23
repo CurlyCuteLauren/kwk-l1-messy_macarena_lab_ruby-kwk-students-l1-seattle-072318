@@ -4,8 +4,8 @@ puts ""
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
 # The first instruction is correct. 
-def  macarena
 
+def  macarena
 puts "Step 1: Right arm out in front of you, palm facing down."
 
 puts "Step 2:Left arm out in front of you, palm facing down."
@@ -21,5 +21,7 @@ puts "Step 6: Place your left hand on your right shoulder."
 puts "Step 7: Bring your right hand up and around to the back of your head."
 
 puts "Step 8: Bring your left hand up and around to the back your head."
+
+end
 
 puts macarena
